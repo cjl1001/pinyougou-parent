@@ -2,6 +2,7 @@
 .settings/
 .classpath
 .project
+*.iml
 target
 *.log
 .DS_Store
